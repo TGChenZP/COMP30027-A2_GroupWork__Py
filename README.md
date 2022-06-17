@@ -1,6 +1,6 @@
 # COMP30027-A2
 ## Assignment 2 of COMP30027 Machine Learning at University of Melbourne
-**Coauthor: Un Leng Kam**
+**Co-authors: Lang (Ron) Chen and Un Leng Kam**
 
 Created: Semester 1 2022
 
